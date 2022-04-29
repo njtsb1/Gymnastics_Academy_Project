@@ -79,3 +79,5 @@ Indicates which is the inverse or non-dominant side of the relationship.
 </ul>
 
 # Follow the original project in the github repository of the specialist [Camila Cavalcante](https://www.linkedin.com/in/cami-la/ "Camila Cavalcante") at the link https://github.com/cami-la/academia-digital
+
+[LICENSE](./LICENSE)
